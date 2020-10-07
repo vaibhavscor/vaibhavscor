@@ -1,14 +1,24 @@
-### Hi there 👋
+### I am Vaibhav Agrawal, I a am Designer and Coder. 
 
-**vaibhavscor/vaibhavscor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=
+vaibhavscor)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently taking courses on Programming Language Concepts, Python and Machinelearning
+- 👯 I'm happy to collaborate on any full stack web development project
+- 💬 Ask me about my experiences as a Computer Science student at NUS and my previous internships
+- 📫 How to reach me: 
+     - Personal: vaibhav.scor29@gmail.com
+     - Linkedin: https://www.linkedin.com/in/vaibhav-agrawal-9459aa190/
+- 😀 Fun fact: I am a Designer and Developer 
+My GitHub stats: 
+     
+![Aadit's github stats](https://github-readme-stats.vercel.app/api?username=vaibhavscor&count_private=true&show_icons=true)
+
+Top Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavscor&layout=compact&langs_count=10)
+
+Wakatime Stats:
+
+![Aadit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vaibhavscor)
