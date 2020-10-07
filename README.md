@@ -1,4 +1,4 @@
-### Hello I am Vaibhav Agrawal. 
+### Hello I am Vaibhav Agrawal
 
 
 - 🔭 I’m currently working on React ana  Django 
