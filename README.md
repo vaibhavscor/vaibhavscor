@@ -1,4 +1,4 @@
-### I am Vaibhav Agrawal, I a am Designer and Coder. 
+### I am Vaibhav Agrawal, I am a Designer and Coder. 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=
 vaibhavscor)
