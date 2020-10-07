@@ -1,7 +1,6 @@
 ### Hello I am Vaibhav Agrawal. 
 
-![Profile Views](https://komarev.com/ghpvc/?username=
-vaibhavscor)
+
 - 🔭 I’m currently working on React ana  Django 
 - 🌱 I’m currently learning Python and Competitive Programming
 - 👯 I’m looking to collaborate on Full Stack Web Development Projects
