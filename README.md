@@ -1,7 +1,7 @@
 ### Hello I am Vaibhav Agrawal
 
 
-- 🔭 I’m currently working on React ana  Django 
+- 🔭 I’m currently working on React.js and  Django 
 - 🌱 I’m currently learning Python and Competitive Programming
 - 👯 I’m looking to collaborate on Full Stack Web Development Projects
 
