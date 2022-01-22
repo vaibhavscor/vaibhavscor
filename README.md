@@ -23,4 +23,4 @@ Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavscor&layout=compact&langs_count=10)
 
 
-![me](https://giphy.com/embed/UOjiI1Gjs9h7YdbMiX)
+![me](https://media.giphy.com/media/UOjiI1Gjs9h7YdbMiX/giphy.gif)
