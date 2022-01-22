@@ -25,7 +25,7 @@ Top Languages:
 
 ### Let's Catch Up For valorant
 
-#### **ID : Scorpion**
-#### **TAGLINE : #CHILL **
+#### ID : Scorpio
+#### TAGLINE : CHILL
 
 ![me](https://media.giphy.com/media/UOjiI1Gjs9h7YdbMiX/giphy.gif)
