@@ -1,4 +1,4 @@
-### Hello I am Vaibhav Agrawal
+## Hello I am Vaibhav Agrawal
 
 
 - 🔭 I’m currently working on Javascript and Exploring more on it's Frameworks & Libraries.
@@ -23,9 +23,9 @@ Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavscor&layout=compact&langs_count=10)
 
 
-## Let's Catch Up For valorant
+### Let's Catch Up For valorant
 
-# ID - Scorpion
-# TAGLINE - ("#CHILL")
+**ID - Scorpion**
+**TAGLINE - #CHILL **
 
 ![me](https://media.giphy.com/media/UOjiI1Gjs9h7YdbMiX/giphy.gif)
