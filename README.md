@@ -23,4 +23,4 @@ Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavscor&layout=compact&langs_count=10)
 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<iframe src="https://giphy.com/embed/UOjiI1Gjs9h7YdbMiX" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/playvalorant-gamechangers-heretoslay-vctgamechangers-UOjiI1Gjs9h7YdbMiX">via GIPHY</a></p>
